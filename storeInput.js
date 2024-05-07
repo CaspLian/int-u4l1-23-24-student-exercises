@@ -10,7 +10,10 @@ button.addEventListener("click", function() {
     //  - Save the value of the four different inputs.
     //  - Go to the html to use the class names.
     
-
+    text = document.querySelector(".text").value;
+    number = document.querySelector(".number").value
+    email = document.querySelector(".email").value
+    date = document.querySelector(".date").value
     
     
     
